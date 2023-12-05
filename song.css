@@ -1,0 +1,18 @@
+body{
+    background-color:  lightskyblue;
+    margin-top: 200px
+    ;
+}
+.song{
+    border: 2px dotted white;
+    background-color: aqua;
+    width: 300px;
+    height: 110px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: rebeccapurple;
+    font-size: 20px;
+    padding-top: 5px;
+    margin: auto;
+}

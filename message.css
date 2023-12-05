@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+.message{
+    border: 2px solid white;
+    margin: 0%;
+    padding: auto;
+}
+.p hover{
+    color: red;
+}
